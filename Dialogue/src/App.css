@@ -1,0 +1,24 @@
+.app-container {
+  padding: 20px;
+}
+
+.k-form-field {
+  display: flex;
+  background-color: aquamarine;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.k-form-field .k-input,
+.k-form-field .k-dropdownlist {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.k-form-field .k-switch {
+  margin-left: 10px;
+}
+
+button.k-button {
+  margin-top: 20px;
+}
